@@ -5,7 +5,7 @@ In this challenge, you build an API and write custom middleware that satisfies t
 ## Instructions
 
 ### Task 1: Project Setup
-
+ 
 There are two possible ways to submit your project. Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
 
 #### Option A - Codegrade
@@ -105,3 +105,4 @@ We have provided test data for the resources.
   - From the React application connect to the `/api/users` endpoint in the API and show the list of users.
   - Add functionality to show the details of a user, including their posts, when clicking a user name in the list. Use React Router to navigate to a `/users/:id` route to show the user details.
   - Add styling!
+JOnathan
